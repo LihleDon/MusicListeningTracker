@@ -33,3 +33,7 @@ An AWS data pipeline that tracks user music listening habits by processing CSV u
 - NoSQL (DynamoDB)
 - Python & boto3
 - Event-driven architecture.
+
+## Results
+![DynamoDB Result](screenshots/dynamodb_scan.png)
+![Lambda Log](screenshots/cloudwatch_log.png)
