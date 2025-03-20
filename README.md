@@ -37,3 +37,8 @@ An AWS data pipeline that tracks user music listening habits by processing CSV u
 ## Results
 ![DynamoDB Result](screenshots/dynamodb_scan.png)
 ![Lambda Log](screenshots/cloudwatch_log.png)
+
+---
+- GitHub: [LihleDon](https://github.com/LihleDon)
+- LinkedIn: [Lihle Dotyeni](https://www.linkedin.com/in/lihle-dotyeni-28297126b)
+
